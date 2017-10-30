@@ -5,8 +5,8 @@
 
 # ローカルリポジトリ  
 
-1. お好み焼きレシピ
-2. ![okonomi.txt](https://github.com/amuroo/yahoo/blob/master/okonomi)  
+* お好み焼きレシピ
+ ![okonomi.txt](https://github.com/amuroo/yahoo/blob/master/okonomi)  
 
 # リモートリポジトリ  
 
