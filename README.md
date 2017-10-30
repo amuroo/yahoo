@@ -10,5 +10,5 @@
 
 # リモートリポジトリ  
 
-1. ![README.md](https://github.com/amuroo/yahoo/blob/master/README.md)を作ってみる　　
-2. マークダウンを覚える
+* ![README.md](https://github.com/amuroo/yahoo/blob/master/README.md)を作ってみる　　
+* マークダウンを覚える
